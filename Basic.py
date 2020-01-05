@@ -1,5 +1,5 @@
-#What is 7 to the power of 4 using lambda
-t=lambda var: var**4
+#What is 7 to the power of 5 using Lambda
+t=lambda var: var**5
 print(t(7))
 
 #Use .format() to print the following string: The diameter of Earth is 12742 kilometers.
