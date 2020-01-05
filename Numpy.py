@@ -46,6 +46,9 @@ print(mat[3:5,:]);
 #Get the sum of all the values in mat
 print(mat.sum());
 
+#Get the Max values in mat
+print(mat.max());
+
 #Get the standard deviation of the values in mat
 print(mat.std());
 
