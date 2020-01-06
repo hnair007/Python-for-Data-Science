@@ -1,4 +1,5 @@
 import pandas as pd
+#ECommerce Purchases datasets is in the same folder
 ecom = pd.read_csv('Ecommerce Purchases')
 #What is the average Purchase Price?
 ecom['Purchase Price'].mean()
